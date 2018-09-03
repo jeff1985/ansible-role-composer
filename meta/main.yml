@@ -1,0 +1,15 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: jeff1985
+  description: install composer
+  company: "TurboAd GmbH"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.9
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  galaxy_tags:
+  - system
